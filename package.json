@@ -1,0 +1,19 @@
+{
+  "name": "fancy-form-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "scss-tokenizer": "^0.4.3"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "sass-graph": "^4.0.0"
+  },
+  "description": ""
+}
